@@ -1,4 +1,17 @@
+
 .venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.pytest_cache/
+.env
+
+# Generated reports
+reports/pr_analysis/
+
+# Temporary project files
+project_structure.txt
+
+# Local editor files
+.vscode/
+.idea/
